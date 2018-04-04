@@ -1,3 +1,6 @@
+## 小黄鸡中文聊天机器人
+用seq2seq模型，加入attention机制，训练中文聊天机器人
+
 ## 训练
 python demo.py train
 
